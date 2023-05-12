@@ -1,0 +1,3 @@
+FROM ghcr.io/pic4ser-kubernetes/pic4ser-python-pytorch:v0.2.0
+
+COPY . .
